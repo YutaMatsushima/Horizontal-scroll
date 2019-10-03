@@ -1,1 +1,1 @@
-# gamejam-vanish
+# Horizontal-scroll
